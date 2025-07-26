@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="97" height="97" viewBox="0 0 97 97">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.755" y1="0.919" x2="0.233" y2="0.098" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a48cf6"/>
+      <stop offset="1" stop-color="#d1c5ff"/>
+    </linearGradient>
+  </defs>
+  <g id="Page-1" transform="translate(0.036 0.298)">
+    <g id="Icons-V2-Copy">
+      <g id="Assemble-the-right-team">
+        <g id="Assemble-Team">
+          <circle id="Oval" cx="48.5" cy="48.5" r="48.5" transform="translate(-0.036 -0.298)" fill="url(#linear-gradient)"/>
+          <path id="Rectangle" d="M11.939,17H66.222a1.939,1.939,0,0,1,1.939,1.939v34.9a1.939,1.939,0,0,1-1.939,1.939H11.939A1.939,1.939,0,0,1,10,53.835v-34.9A1.939,1.939,0,0,1,11.939,17Z" transform="translate(9.387 15.958)" fill="rgba(140,108,249,0.5)" fill-rule="evenodd"/>
+          <g id="Group-10" transform="translate(19.387 29.08)">
+            <path id="Rectangle-2" data-name="Rectangle" d="M2.605.417H56.889a1.939,1.939,0,0,1,1.939,1.939v34.9a1.939,1.939,0,0,1-1.939,1.939H2.605A1.939,1.939,0,0,1,.667,37.252V2.355A1.939,1.939,0,0,1,2.605.417Z" transform="translate(-0.667 -0.417)" fill="#fff" fill-rule="evenodd"/>
+            <g id="group-_1_" data-name="group-(1)" transform="translate(13.571 11.682)">
+              <path id="Oval-2" data-name="Oval" d="M16.632,11.424c0-3.548-2.6-6.424-5.816-6.424S5,7.876,5,11.424C5,13.218,16.632,13.179,16.632,11.424Z" transform="translate(4.693 4.644)" fill="#9884db" fill-rule="evenodd" opacity="0.702"/>
+              <path id="Oval-3" data-name="Oval" d="M19.755,9.818A5.119,5.119,0,0,0,14.381,5c-1.635,0-2.4.49-2.381,1.522.014.842.685,2.1.685,3.3C12.685,11.163,19.755,11.134,19.755,9.818Z" transform="translate(11.264 4.644)" fill="#9884db" fill-rule="evenodd" opacity="0.702"/>
+              <path id="Oval-4" data-name="Oval" d="M7.755,1A5.119,5.119,0,0,1,2.381,5.816c-1.635,0-2.4-.49-2.381-1.522.014-.842.685-2.1.685-3.3C.685-.347,7.755-.318,7.755,1Z" transform="translate(7.755 15.46) rotate(180)" fill="#9884db" fill-rule="evenodd" opacity="0.702"/>
+              <circle id="Oval-5" data-name="Oval" cx="4" cy="4" r="4" transform="translate(11.006 -0.06)" fill="#9884db" opacity="0.702"/>
+              <circle id="Oval-6" data-name="Oval" cx="3" cy="3" r="3" transform="translate(21.006 1.94)" fill="#b7a9e6"/>
+              <ellipse id="Oval-7" data-name="Oval" cx="3.5" cy="3" rx="3.5" ry="3" transform="translate(3.006 1.94)" fill="#b7a9e6"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

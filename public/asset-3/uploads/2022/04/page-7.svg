@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="94" height="94" viewBox="0 0 94 94">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.755" y1="0.919" x2="0.233" y2="0.098" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e5856f"/>
+      <stop offset="1" stop-color="#f0d6d0"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_13588" data-name="Group 13588" transform="translate(-1072 -2675.932)">
+    <g id="Page-1" transform="translate(1072.081 2676.104)">
+      <g id="Icons-V2-Copy" transform="translate(0 0)">
+        <g id="Sprint-planning" transform="translate(0)">
+          <g id="Sprint-Planning-2" data-name="Sprint-Planning">
+            <circle id="Oval" cx="47" cy="47" r="47" transform="translate(-0.081 -0.172)" fill="url(#linear-gradient)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <path id="star-2" d="M13.2,5.289a.7.7,0,0,0-.605-.483L8.775,4.459,7.265.923a.7.7,0,0,0-1.294,0L4.461,4.459.639,4.806a.7.7,0,0,0-.4,1.231L3.128,8.569,2.276,12.32a.7.7,0,0,0,1.047.761l3.295-1.97,3.294,1.97a.7.7,0,0,0,1.047-.761l-.852-3.751L13,6.037A.7.7,0,0,0,13.2,5.289Zm-6.52,5.784" transform="translate(1095 2715.608)" fill="#fff"/>
+    <path id="star-2-2" data-name="star-2" d="M13.2,5.289a.7.7,0,0,0-.605-.483L8.775,4.459,7.265.923a.7.7,0,0,0-1.294,0L4.461,4.459.639,4.806a.7.7,0,0,0-.4,1.231L3.128,8.569,2.276,12.32a.7.7,0,0,0,1.047.761l3.295-1.97,3.294,1.97a.7.7,0,0,0,1.047-.761l-.852-3.751L13,6.037A.7.7,0,0,0,13.2,5.289Zm-6.52,5.784" transform="translate(1112.753 2715.608)" fill="#fff"/>
+    <path id="star-2-3" data-name="star-2" d="M13.2,5.289a.7.7,0,0,0-.605-.483L8.775,4.459,7.265.923a.7.7,0,0,0-1.294,0L4.461,4.459.639,4.806a.7.7,0,0,0-.4,1.231L3.128,8.569,2.276,12.32a.7.7,0,0,0,1.047.761l3.295-1.97,3.294,1.97a.7.7,0,0,0,1.047-.761l-.852-3.751L13,6.037A.7.7,0,0,0,13.2,5.289Zm-6.52,5.784" transform="translate(1130.506 2715.608)" fill="#fff"/>
+    <g id="Rectangle_37" data-name="Rectangle 37" transform="translate(1085 2709.432)" fill="none" stroke="#fff" stroke-width="3">
+      <rect width="68" height="27" rx="13.5" stroke="none"/>
+      <rect x="1.5" y="1.5" width="65" height="24" rx="12" fill="none"/>
+    </g>
+  </g>
+</svg>

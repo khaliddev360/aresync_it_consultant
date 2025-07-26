@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="94" height="94" viewBox="0 0 94 94">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.755" y1="0.919" x2="0.233" y2="0.098" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3da2d8"/>
+      <stop offset="1" stop-color="#c9e7f4"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_13588" data-name="Group 13588" transform="translate(0.081 48.172)">
+    <g id="Sprint-Planning" transform="translate(0 -48)">
+      <circle id="Oval" cx="47" cy="47" r="47" transform="translate(-0.081 -0.172)" fill="url(#linear-gradient)"/>
+      <path id="Rectangle" d="M11.881,17H64.559a1.881,1.881,0,0,1,1.881,1.881V52.746a1.881,1.881,0,0,1-1.881,1.881H11.881A1.881,1.881,0,0,1,10,52.746V18.881A1.881,1.881,0,0,1,11.881,17Z" transform="translate(8.617 14.983)" fill="#8dc774" fill-rule="evenodd"/>
+      <g id="Rectangle-2" transform="translate(18.617 28.22)">
+        <path id="Rectangle-2-2" data-name="Rectangle" d="M2.465.417H55.142A1.881,1.881,0,0,1,57.024,2.3V36.162a1.881,1.881,0,0,1-1.881,1.881H2.465A1.881,1.881,0,0,1,.583,36.162V2.3A1.881,1.881,0,0,1,2.465.417Z" transform="translate(-0.583 -0.417)" fill="#fff" fill-rule="evenodd"/>
+        <g id="plan" transform="translate(11.276 6.201)">
+          <g id="Group-31" transform="translate(0 0)">
+            <path id="Path" d="M18.663,10.7h1.886V2.051c0-.76,0-.76-.717-.76H7.375V3.173l11.288.011Z" transform="translate(5.807 0.032)" fill="#8bc670" fill-rule="evenodd"/>
+            <path id="Path-2" data-name="Path" d="M9.4,15.051h1.886V.76c0-.76,0-.76-.717-.76H0V1.892H9.4Z" transform="translate(5.656 22.019) rotate(-90)" fill="#8bc670" fill-rule="evenodd"/>
+            <rect id="Rectangle-3" data-name="Rectangle" width="15" height="5" rx="1" transform="translate(0.027 0.406)" fill="#8bc670"/>
+            <rect id="Rectangle-4" data-name="Rectangle" width="15" height="5" rx="1" transform="translate(0.027 20.406)" fill="#8bc670"/>
+            <rect id="Rectangle-5" data-name="Rectangle" width="14" height="6" rx="1" transform="translate(19.027 8.406)" fill="#8bc670"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

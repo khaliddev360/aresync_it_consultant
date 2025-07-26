@@ -1,0 +1,10 @@
+.wp-container-3 {
+    display: flex;
+    gap: 2em;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+
+.wp-container-3>* {
+    margin: 0;
+}

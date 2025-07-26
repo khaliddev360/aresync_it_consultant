@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <g id="Group_12869" data-name="Group 12869" transform="translate(22958 18800)">
+    <rect id="Rectangle_4779" data-name="Rectangle 4779" width="100" height="100" transform="translate(-22958 -18800)" fill="none"/>
+    <g id="tild6530-3737-4361-b464-363539393135__lambda" transform="translate(-22952.439 -18794)">
+      <g id="Group_12844" data-name="Group 12844" transform="translate(0 0)">
+        <rect id="canvas_background" width="89" height="89" transform="translate(0.439)" fill="none"/>
+      </g>
+      <g id="Group_12845" data-name="Group 12845" transform="translate(16.816 15.689)">
+        <path id="svg_1" d="M66.825,70.607H52.507a1.162,1.162,0,0,1-1.046-.662L31.217,27.608H22.652a1.162,1.162,0,0,1-1.162-1.162V13.662A1.162,1.162,0,0,1,22.652,12.5h17.9a1.162,1.162,0,0,1,1.046.662L61.746,55.5h5.079a1.162,1.162,0,0,1,1.162,1.162V69.445A1.162,1.162,0,0,1,66.825,70.607ZM53.239,68.282H65.663V57.823H61.014a1.162,1.162,0,0,1-1.046-.662L39.817,14.824H23.826V25.283h8.135a1.162,1.162,0,0,1,1.046.662L53.239,68.282Z" transform="translate(-12.169 -12.5)" fill="#ff561d"/>
+        <path id="svg_2" d="M29.752,67.437H14.644A1.178,1.178,0,0,1,13.6,65.729L29.4,32.712a1.162,1.162,0,0,1,1.046-.662h0a1.162,1.162,0,0,1,1.046.651L39.06,48.262a1.162,1.162,0,0,1,0,1.011L30.809,66.7a1.162,1.162,0,0,1-1.058.732ZM16.5,65.113H29.019l7.7-16.27L30.46,35.885Z" transform="translate(-13.47 -9.33)" fill="#ff561d"/>
+      </g>
+    </g>
+  </g>
+</svg>

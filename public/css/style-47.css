@@ -1,0 +1,11 @@
+.wp-container-6 {
+    display: flex;
+    gap: 2em;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+
+.wp-container-6>* {
+    margin: 0;
+}
+

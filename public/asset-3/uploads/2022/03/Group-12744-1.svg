@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="83" height="83" viewBox="0 0 83 83">
+  <g id="Group_12744" data-name="Group 12744" transform="translate(-284 -5139)">
+    <g id="Ellipse_103" data-name="Ellipse 103" transform="translate(284 5139)" fill="none" stroke="#dddfe2" stroke-width="2">
+      <circle cx="41.5" cy="41.5" r="41.5" stroke="none"/>
+      <circle cx="41.5" cy="41.5" r="40.5" fill="none"/>
+    </g>
+    <path id="magento-2" d="M23.262,14.561V42.214l-2.719,1.662L17.821,42.2V14.583l-7.047,4.338V42.569l9.768,5.977,9.85-6.019V18.906l-7.131-4.345ZM20.543,0,0,12.446V36.1L5.335,39.24V15.587L20.547,6.338l15.226,9.236.063.036-.007,23.6L41.112,36.1V12.446L20.543,0Z" transform="translate(304.944 5155.753)" fill="#f26322"/>
+  </g>
+</svg>

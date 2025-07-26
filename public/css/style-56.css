@@ -1,0 +1,84 @@
+   @media screen and (max-width: 768px) {
+        .Apps .wpb_single_image figure {
+            width: 100% !important;
+        }
+    }
+
+    @media (min-width: 979px) and (max-width: 1440px) {
+        .lap.wpb_single_image {
+            margin-right: 0px !important;
+        }
+
+    }
+
+    @media (min-width: 979px) and (max-width: 1440px) {
+
+        .mac-ani,
+        .mac-ani img {
+            width: 800px !important;
+        }
+
+    }
+
+
+    @media only screen and (min-device-width : 1023px) and (max-device-width : 1024px) {
+        .lap.wpb_single_image {
+            margin-right: 0px !important;
+        }
+
+        .mac-ani,
+        .mac-ani img {
+            width: auto !important;
+        }
+
+        .tab20 .vc_column-inner {
+            padding: 0px 20px !important;
+        }
+
+        .tabpls h3 {
+            font-size: 30px !important;
+        }
+
+        .spacetab .vc_column-inner {
+            padding: 0px 30px !important;
+        }
+
+        .tab-none.vc_empty_space {
+            display: none !important;
+        }
+
+        .macpadd.vc_ui {
+            padding: 0 8% !important;
+        }
+
+        .tabpls.vc_row .space40 .vc_column-inner {
+            padding: 40px !important;
+        }
+
+        .m70.vc_row {
+            margin: 30px 70px !important;
+            padding: 30px !important;
+        }
+
+        .m70 h3 {
+            font-size: 30px !important;
+        }
+
+        .tab-none.vc_empty_space {
+            display: none !important;
+        }
+
+        .fight h4 {
+            font-size: 37px !important;
+            line-height: 37px !important
+        }
+
+        .fight h3 {
+            font-size: 40px !important;
+            line-height: 42px !important
+        }
+
+        .th10 {
+            height: 10px !important;
+        }
+    }

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="insta" transform="translate(-1134 -3396)">
+    <g id="instagram-logo" transform="translate(1138 3399.636)">
+      <path id="Path_1693" data-name="Path 1693" d="M17.436,0H6.645A6.653,6.653,0,0,0,0,6.646v10.79a6.653,6.653,0,0,0,6.645,6.646h10.79a6.653,6.653,0,0,0,6.646-6.646V6.646A6.653,6.653,0,0,0,17.436,0Zm4.509,17.436a4.514,4.514,0,0,1-4.509,4.509H6.645a4.514,4.514,0,0,1-4.509-4.509V6.646A4.514,4.514,0,0,1,6.645,2.137h10.79a4.514,4.514,0,0,1,4.509,4.509v10.79Z" fill="#fff"/>
+      <path id="Path_1694" data-name="Path 1694" d="M47.173,40.97a6.205,6.205,0,1,0,6.205,6.205A6.212,6.212,0,0,0,47.173,40.97Zm0,10.273a4.068,4.068,0,1,1,4.069-4.068A4.073,4.073,0,0,1,47.173,51.243Z" transform="translate(-35.132 -35.134)" fill="#fff"/>
+      <path id="Path_1695" data-name="Path 1695" d="M120.488,28.251a1.566,1.566,0,1,0,1.108.459A1.573,1.573,0,0,0,120.488,28.251Z" transform="translate(-101.982 -24.227)" fill="#fff"/>
+    </g>
+    <rect id="Rectangle_4432" data-name="Rectangle 4432" width="32" height="32" transform="translate(1134 3396)" fill="none"/>
+  </g>
+</svg>

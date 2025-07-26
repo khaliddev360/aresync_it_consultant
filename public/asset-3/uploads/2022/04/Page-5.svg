@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="94" height="94" viewBox="0 0 94 94">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.755" y1="0.919" x2="0.233" y2="0.098" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#85c26a"/>
+      <stop offset="1" stop-color="#ccf5ba"/>
+    </linearGradient>
+  </defs>
+  <g id="Page-1" transform="translate(0.081 0.172)">
+    <g id="Icons-V2-Copy" transform="translate(0 0)">
+      <g id="Sprint-planning" transform="translate(0)">
+        <g id="Sprint-Planning-2" data-name="Sprint-Planning">
+          <circle id="Oval" cx="47" cy="47" r="47" transform="translate(-0.081 -0.172)" fill="url(#linear-gradient)"/>
+          <g id="Rectangle-2" transform="translate(9.364 20.938)">
+            <g id="plan" transform="translate(11.303 6.608)">
+              <g id="Group-31" transform="translate(0 0)">
+                <path id="Path" d="M27.045,17.683h3.286V2.615c0-1.324,0-1.324-1.25-1.324H7.375V4.57l19.67.018Z" transform="translate(15.548 0.307)" fill="#fff" fill-rule="evenodd"/>
+                <path id="Path-2" data-name="Path" d="M16.384,26.227H19.67V1.324C19.67,0,19.67,0,18.42,0H0V3.3H16.384Z" transform="translate(9.81 37.661) rotate(-90)" fill="#fff" fill-rule="evenodd"/>
+                <rect id="Rectangle" width="26" height="8" rx="1" transform="translate(0.252 0.282)" fill="#fff"/>
+                <rect id="Rectangle-2-2" data-name="Rectangle" width="26" height="8" rx="1" transform="translate(0.252 35.282)" fill="#fff"/>
+                <rect id="Rectangle-3" data-name="Rectangle" width="24" height="10" rx="1" transform="translate(33.252 14.282)" fill="#fff"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

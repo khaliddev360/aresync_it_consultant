@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="113" height="107" viewBox="0 0 113 107">
+  <defs>
+    <filter id="Rectangle_3817" x="0" y="0" width="113" height="107" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.027"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_12818" data-name="Group 12818" transform="translate(-281 -2324)">
+    <g transform="matrix(1, 0, 0, 1, 281, 2324)" filter="url(#Rectangle_3817)">
+      <g id="Rectangle_3817-2" data-name="Rectangle 3817" transform="translate(9 6)" fill="#fff" stroke="#eaedf2" stroke-width="1">
+        <rect width="95" height="89" rx="22" stroke="none"/>
+        <rect x="0.5" y="0.5" width="94" height="88" rx="21.5" fill="none"/>
+      </g>
+    </g>
+    <g id="badge-24px" transform="translate(311 2348)">
+      <g id="Group_9012" data-name="Group 9012">
+        <rect id="Rectangle_3816" data-name="Rectangle 3816" width="53" height="53" fill="none"/>
+      </g>
+      <g id="Group_9013" data-name="Group 9013" transform="translate(4.417 4.417)">
+        <path id="Path_41167" data-name="Path 41167" d="M41.75,13.042H30.708V6.417A4.43,4.43,0,0,0,26.292,2H21.875a4.43,4.43,0,0,0-4.417,4.417v6.625H6.417A4.43,4.43,0,0,0,2,17.458V41.75a4.43,4.43,0,0,0,4.417,4.417H41.75a4.43,4.43,0,0,0,4.417-4.417V17.458A4.43,4.43,0,0,0,41.75,13.042ZM17.458,24.083A3.313,3.313,0,1,1,14.146,27.4,3.308,3.308,0,0,1,17.458,24.083Zm6.625,13.25H10.833V35.677c0-2.208,4.417-3.312,6.625-3.312s6.625,1.1,6.625,3.313Zm2.208-19.875H21.875V6.417h4.417ZM37.333,34.021H28.5V30.708h8.833Zm0-6.625H28.5V24.083h8.833Z" transform="translate(-2 -2)" fill="#0062ff"/>
+      </g>
+    </g>
+  </g>
+</svg>

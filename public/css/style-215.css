@@ -1,0 +1,290 @@
+.fullimg figure,
+.fullimg figure .vc_single_image-wrapper,
+.fullimg figure .vc_single_image-wrapper img {
+    width: 100%;
+
+}
+
+.position-full {
+    position: absolute;
+    right: -175px;
+    top: -25%;
+}
+
+.height550 img {
+    height: 650px !important;
+    width: auto !important;
+}
+
+.icon_inline img {
+    height: 46px;
+    width: auto !important;
+}
+
+@media screen and (max-width: 768px) {
+    .icon_inline .vc_column_container {
+        width: 100% !important;
+    }
+
+    .height550 img {
+        height: 350px !important;
+        width: auto !important;
+    }
+}
+
+@media (min-width: 979px) and (max-width: 1440px) {
+    .height550 img {
+        height: 570px !important;
+        width: auto !important;
+    }
+}
+
+@media screen and (min-width: 2000px) {
+
+    .mac-ani,
+    .mac-ani img {
+        width: 700px !important;
+        height: auto !important;
+    }
+}
+
+.vc_custom_1645519363179 {
+    padding-top: 0px !important;
+}
+
+.vc_custom_1646030763226 {
+    margin-top: -50px !important;
+    padding-top: 135px !important;
+    padding-bottom: 100px !important;
+}
+
+.vc_custom_1646030317072 {
+    padding-top: 100px !important;
+}
+
+.vc_custom_1646030364392 {
+    padding-top: 160px !important;
+}
+
+.vc_custom_1646029940079 {
+    border-top-width: 1px !important;
+    padding-top: 100px !important;
+    border-top-color: rgba(183, 183, 183, 0.4) !important;
+    border-top-style: solid !important;
+}
+
+.vc_custom_1646029928279 {
+    border-top-width: 1px !important;
+    padding-top: 83px !important;
+    border-top-color: rgba(183, 183, 183, 0.59) !important;
+    border-top-style: solid !important;
+}
+
+.vc_custom_1646111580779 {
+    margin-top: 60px !important;
+    margin-bottom: 60px !important;
+    padding-top: 30px !important;
+    padding-right: 30px !important;
+    padding-bottom: 30px !important;
+    padding-left: 30px !important;
+    background-color: #f7f8fa !important;
+    border-radius: 15px !important;
+}
+
+.vc_custom_1644382844124 {
+    border-radius: 15px !important;
+}
+
+.vc_custom_1646111592193 {
+    margin-top: 60px !important;
+    margin-bottom: 60px !important;
+    padding-top: 30px !important;
+    padding-right: 30px !important;
+    padding-bottom: 30px !important;
+    padding-left: 30px !important;
+    background-color: #f7f8fa !important;
+    border-radius: 15px !important;
+}
+
+.vc_custom_1644382844124 {
+    border-radius: 15px !important;
+}
+
+.vc_custom_1646111602656 {
+    margin-top: 60px !important;
+    margin-bottom: 60px !important;
+    padding-top: 30px !important;
+    padding-right: 30px !important;
+    padding-bottom: 30px !important;
+    padding-left: 30px !important;
+    background-color: #f7f8fa !important;
+    border-radius: 15px !important;
+}
+
+.vc_custom_1644382844124 {
+    border-radius: 15px !important;
+}
+
+.vc_custom_1646111615350 {
+    margin-top: 60px !important;
+    margin-bottom: 60px !important;
+    padding-top: 30px !important;
+    padding-right: 30px !important;
+    padding-bottom: 30px !important;
+    padding-left: 30px !important;
+    background-color: #f7f8fa !important;
+    border-radius: 15px !important;
+}
+
+.vc_custom_1644382844124 {
+    border-radius: 15px !important;
+}
+
+.vc_custom_1644382844124 {
+    border-radius: 15px !important;
+}
+
+.vc_custom_1645521132403 {
+    border-top-width: 1px !important;
+    border-top-color: #eaedf2 !important;
+    border-top-style: none !important;
+}
+
+.vc_custom_1645521274700 {
+    background-image: url(../../asset-3/uploads/2021/11/ft_bannerf958.png) !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+}
+
+.vc_custom_1644474593932 {
+    padding-top: 70px !important;
+    padding-bottom: 70px !important;
+    background-color: #1c1f22 !important;
+}
+
+.vc_custom_1650281831967 {
+    margin-bottom: 0px !important;
+}
+
+.vc_custom_1650607419329 {
+    background-image: url(../../asset-3/uploads/2022/04/campaign-creators-e6n7uoEnYbA-unsplash.jpg) !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+}
+
+.vc_custom_1650607443572 {
+    /* margin-left: 20px !important;
+    background-image: url(../../asset-3/uploads/2022/04/right_group.svg) !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important; */
+}
+
+.vc_custom_1646635467693 {
+    margin-right: 125px !important;
+}
+
+.vc_custom_1646030444586 {
+    padding-right: 35% !important;
+}
+
+.vc_custom_1645695229946 {
+    padding-right: 35% !important;
+}
+
+.vc_custom_1645695253110 {
+    padding-right: 35% !important;
+}
+
+.vc_custom_1645695274827 {
+    padding-right: 35% !important;
+}
+
+.vc_custom_1645695285876 {
+    padding-right: 35% !important;
+}
+
+.vc_custom_1645695396401 {
+    padding-right: 35% !important;
+}
+
+.vc_custom_1645695573421 {
+    padding-right: 35% !important;
+}
+
+.vc_custom_1645695601406 {
+    padding-right: 35% !important;
+}
+
+.vc_custom_1645695463405 {
+    padding-right: 35% !important;
+}
+
+.vc_custom_1645695477872 {
+    padding-right: 35% !important;
+}
+
+.vc_custom_1646990566910 {
+    padding-right: 90px !important;
+    padding-left: 90px !important;
+}
+
+.vc_custom_1646990533184 {
+    padding-right: 90px !important;
+    padding-left: 90px !important;
+}
+
+.vc_custom_1648452135970 {
+    margin-bottom: -110px !important;
+}
+
+.vc_custom_1644382914262 {
+    margin: 0px !important;
+    padding: 0px !important;
+    border: 0px initial !important;
+}
+
+.vc_custom_1648452296069 {
+    margin-bottom: -110px !important;
+}
+
+.vc_custom_1648452356159 {
+    margin-bottom: -110px !important;
+}
+
+.vc_custom_1648452383413 {
+    margin-bottom: -110px !important;
+}
+
+.vc_custom_1644385402867 {
+    margin-top: 0px !important;
+    margin-right: 0px !important;
+    margin-bottom: 0px !important;
+    margin-left: 0px !important;
+    padding-top: 0px !important;
+    padding-right: 0px !important;
+    padding-bottom: 0px !important;
+    padding-left: 0px !important;
+}
+
+.vc_custom_1645618377569 {
+    padding-top: 39% !important;
+}
+
+.vc_custom_1646029303999 {
+    padding-top: 12.3% !important;
+    padding-right: 40px !important;
+    padding-bottom: 12.3% !important;
+    padding-left: 40px !important;
+    background-color: #ff0000 !important;
+}
+
+.vc_custom_1646029298410 {
+    padding-top: 12.3% !important;
+    padding-right: 40px !important;
+    padding-bottom: 12.3% !important;
+    padding-left: 40px !important;
+    background-color: #1a1c1f !important;
+}

@@ -1,0 +1,41 @@
+.buildeveryone:before {
+    content: '';
+    content: '';
+    width: 65%;
+    height: 100%;
+    position: absolute;
+    background: #FFFFFF;
+    background: -webkit-linear-gradient(to bottom right, #FFFFFF 0%, #FFEFEC 100%);
+    background: -moz-linear-gradient(to bottom right, #FFFFFF 0%, #FFEFEC 100%);
+    background: linear-gradient(to bottom right, #FFFFFF 0%, #FFEFEC 100%);
+    left: 0;
+}
+
+.ic-bx .icon-box i,
+.ic-bx .icon-box h4,
+.ic-bx .icon-box p {
+    margin: 25px 0px !important;
+}
+
+.alignbtn {
+    display: flex;
+    float: right;
+}
+
+.red:hover H4,
+.red:hover a.btn {
+    color: #d90a2c !important;
+}
+
+@media screen and (max-width: 768px) {
+    .alignbtn {
+        font-size: 18px !important;
+    }
+
+    .contact-form .btn,
+    .subscribe-form .btn,
+    .subscribe-widget .btn {
+        display: block;
+        width: fit-content;
+    }
+}

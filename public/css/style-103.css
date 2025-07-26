@@ -1,0 +1,88 @@
+.fill85 h4,
+.fill85 p {
+    color: black !important;
+}
+
+.workin img {
+    width: 80px;
+    height: 50px !important;
+}
+
+.dark-scheme .dark-bg .vc_row.bg-shadow {
+    background-color: #fafcfd1a !important;
+}
+
+.workin .ohio-text-sc p {
+    color: #5b5b5b !important;
+    font-size: 15px !important;
+}
+
+.dark-scheme .workin img {
+    filter: invert(1) brightness(100);
+}
+
+.bg-laravel.vc_row {
+    background-position: right center !important;
+    background-size: 700px !important;
+}
+
+.tab.tabs-center .tabNav {
+    border-bottom: 1px solid #CBCDD1;
+}
+
+.bg-shadow {
+    position: initial !important;
+    margin-top: -50px !important;
+    box-shadow: 0px 0px 9px rgb(0 0 0 / 7%);
+}
+
+.clock img {
+    width: 75px;
+}
+
+.mb50m {
+    margin-bottom: -50px !important;
+}
+
+@media (min-width: 979px) and (max-width: 1440px) {
+    .bg-laravel.vc_row {
+        background-size: 580px !important;
+    }
+}
+
+@media screen and (max-width: 782px) {
+    .vc_padding.vc_row {
+        padding-bottom: 40px !important;
+    }
+
+    .vc_pt2.vc_row {
+        padding-top: 0px !important;
+    }
+
+    .bg-laravel.vc_row {
+        background-position: right center !important;
+        background: none !important;
+    }
+
+}
+
+@media screen and (min-width: 2000px) {
+    h2 {
+        font-size: 70px;
+    }
+
+    .mac-ani,
+    .mac-ani img {
+        width: 750px;
+
+    }
+
+}
+
+@media only screen and (min-device-width : 1023px) and (max-device-width : 1024px) {
+
+    .vh18.vc_empty_space {
+        height: 18vh !important;
+    }
+}
+

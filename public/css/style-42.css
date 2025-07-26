@@ -1,0 +1,16 @@
+.wp-container-1>.alignleft {
+        float: left;
+        margin-inline-start: 0;
+        margin-inline-end: 2em;
+    }
+
+    .wp-container-1>.alignright {
+        float: right;
+        margin-inline-start: 2em;
+        margin-inline-end: 0;
+    }
+
+    .wp-container-1>.aligncenter {
+        margin-left: auto !important;
+        margin-right: auto !important;
+    }

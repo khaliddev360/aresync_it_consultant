@@ -1,0 +1,64 @@
+	.hightimg img {
+	    height: 550px !important;
+	    width: auto !important;
+	}
+
+	@media screen and (max-width: 768px) {
+	    .Apps .wpb_single_image figure {
+	        width: 100% !important;
+	    }
+
+	    .hightimg img {
+	        height: 250px !important;
+	    }
+
+	    .hightimg {
+	        text-align: center !important;
+	    }
+	}
+
+	@media (min-width: 979px) and (max-width: 1440px) {
+	    .hightimg img {
+	        height: 542px !important;
+	        width: auto !important;
+	    }
+
+	    .hightimg {
+	        margin-right: 0px !important;
+	    }
+	}
+
+	@media screen and (min-width: 2000px) {
+
+	    .mac-ani,
+	    .mac-ani img {
+	        width: 650px !important;
+	        height: auto !important;
+	    }
+	}
+
+	@media only screen and (min-device-width : 1023px) and (max-device-width : 1024px) {
+	    .left-absolute img {
+	        position: absolute;
+	        top: -91px;
+	        left: 76%;
+	    }
+
+	    .m70.vc_row {
+	        margin: 30px 70px !important;
+	    }
+
+	    .m70 h3 {
+	        font-size: 30px !important;
+	    }
+
+	    .tab-none.vc_empty_space {
+	        display: none !important;
+	    }
+
+	    .right-absolute img {
+	        right: 77%;
+	    }
+	}
+
+	

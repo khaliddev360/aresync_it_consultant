@@ -1,0 +1,560 @@
+#ohio-custom-62fcedc958e2f .icon-box-icon {
+    background-color: #FFDAAB !important;
+}
+
+#ohio-custom-62fcedc95a72e .icon-box-icon {
+    background-color: #FF5555 !important;
+}
+
+#ohio-custom-62fcedc95ace5 .icon-box-icon {
+    background-color: #00B1AB !important;
+}
+
+#ohio-custom-62fcedc95b3b8 .icon-box-icon {
+    background-color: #DFED90 !important;
+}
+
+#ohio-custom-62fcedc95b3b82 .icon-box-icon {
+    background-color: #DFED90 !important;
+}
+
+#ohio-custom-62fcedc95b3b83 .icon-box-icon {
+    background-color: #DFED90 !important;
+}
+
+#ohio-custom-62fcedc95c73e .icon-box-icon {
+    background-color: #d0758a !important;
+}
+
+#ohio-custom-62fcedc95c73e2 .icon-box-icon {
+    background-color: #d0758a !important;
+}
+
+#ohio-custom-62fcedc95c99f .icon-box-icon {
+    background-color: #FF9068 !important;
+}
+
+#ohio-custom-62fcedc95c99f2 .icon-box-icon {
+    background-color: #FF9068 !important;
+}
+
+#icon-transparent {
+    background-color: transparent !important;
+}
+
+.whats_app {
+    position: fixed;
+    bottom: 115px;
+    right: 25px;
+    z-index: 99;
+}
+
+.whats_app img {
+    height: 60px;
+    width: 60px;
+    border-radius: 60px;
+}
+
+.blacktxt.btn .text {
+    color: black !important;
+}
+
+@media only screen and (max-width: 1366px) {
+
+    body .slider.ohio-slider.slider-offset.full.with-preloader.with-pagination.clb-slider.visible.aos-init.aos-animate .slider-wrap,
+    body .slider.ohio-slider.slider-offset.without-nav.with-preloader.top-dots.clb-slider.visible.aos-init .slider-wrap {
+        min-width: 275px !important;
+    }
+
+    .counter-box-headline>p:nth-child(1) {
+        display: none
+    }
+
+    .counter-box-headline>p {
+        padding: 0px 0px !important;
+        margin: 0px !important;
+    }
+
+    .item-slide .slider-wrap .vc_row .vc_column-inner,
+    .item-slide .slider-wrap .vc_row {
+        height: 485px !important;
+    }
+}
+
+@media only screen and (max-width: 1366px) {
+    body .header:not(.-mobile) .menu .sub-menu-wide {
+        width: calc(100vw - 9vw) !important;
+        left: -695px !important;
+    }
+}
+
+@media only screen and (min-device-width : 1023px) and (max-device-width : 1024px) {
+    body .header:not(.-mobile) .menu .sub-menu-wide {
+        width: calc(100vw - 9vw) !important;
+        left: -412.919px !important;
+    }
+}
+
+@media only screen and (min-device-width : 1023px) and (max-device-width : 1024px),
+@media only screen and (min-width: 1366px) {
+    .image-with-title .slider-wrap {
+        margin-right: 15px !important;
+        min-width: 208px !important;
+    }
+
+    .image-with-title .slider-wrap .sec {
+
+        font-size: 13px;
+    }
+
+    .image-with-title .slider-wrap.first {
+
+        font-size: 24px;
+    }
+
+    .margin-0.imghight img {
+        margin-left: 0px !important;
+    }
+
+    .mt60.dark-bg.vc_row {
+        margin-top: -60px !important;
+    }
+
+    .vh20.vc_empty_space {
+        height: 28vh !important;
+    }
+
+    .vh15.vc_empty_space {
+        height: 8vh !important;
+    }
+
+    .m-1 .vc_column-inner,
+    .m-2 .vc_column-inner {
+        padding: 30px 20px !important;
+    }
+
+    .m-1.vc_row {
+        padding: 0px !important;
+        padding-top: 20px !important;
+    }
+
+    .m-2.vc_row {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+        padding-bottom: 60px !important;
+    }
+
+    .dark-bg .dark-bg {
+        padding: 0px !important;
+        margin: -30px 0px 0px 0px !important;
+    }
+
+    .m-1 h4,
+    .m-2 h4 {
+        font-size: 20px !important;
+    }
+
+    .pac-t0 h4 {
+        margin: 25px 0px -20px 0px !important;
+    }
+
+    .mpt40.vc_row {
+        padding-top: 100px !important;
+    }
+
+    .price-table .pricing_price_time {
+        left: 33%;
+    }
+
+    h2.pricing_price_title {
+        font-size: 27px !important;
+        padding: 10px;
+    }
+
+    .price-table h3 {
+        font-size: 25px !important;
+    }
+
+    .alignbtn {
+        font-size: 17px !important;
+    }
+
+    .content-box-rounded {
+        Height: 440px !important
+    }
+
+    .said .slider-wrap>.ohio-text-sc:nth-child(1) p {
+        height: 60px !important
+    }
+
+    .right-absolute img {
+        right: 77%;
+    }
+
+    .tab20 .vc_column-inner {
+        padding: 0px 20px !important;
+    }
+
+    .tabpls h3 {
+        font-size: 30px !important;
+    }
+
+    .spacetab .vc_column-inner {
+        padding: 0px 30px !important;
+    }
+
+    .tab-none.vc_empty_space {
+        display: none !important;
+    }
+
+    .macpadd.vc_ui {
+        padding: 0 8% !important;
+    }
+
+    .tabpls.vc_row .space40 .vc_column-inner {
+        padding: 40px !important;
+    }
+
+    .dark-bg.vc_row {
+        margin: 30px 0px !important;
+        padding: 30px 0px !important;
+    }
+
+    .dark-bg h3 {
+        font-size: 30px !important;
+    }
+
+    .tabnone.vc_empty_space,
+    .tab-none.vc_empty_space {
+        display: none !important;
+    }
+
+    .fight h4 {
+        font-size: 37px !important;
+        line-height: 37px !important
+    }
+
+    .fight h3 {
+        font-size: 40px !important;
+        line-height: 42px !important
+    }
+
+    .th10 {
+        height: 10px !important;
+    }
+
+    body .macpadd {
+        padding: 0px 25px !important;
+    }
+
+    body .page-container:not(.full),
+    body .page-container:not(.full) .elementor-section.elementor-section-boxed>.elementor-container {
+        max-width: 900px;
+    }
+
+    .poster .slider-wrap .vc_row {
+        height: 788px !important;
+
+    }
+
+    p br,
+    h3 br,
+    h4 br,
+    h2 br,
+    h1 br {
+        display: none;
+    }
+
+    .tab20 .vc_column-inner {
+        padding: 0px 20px !important;
+    }
+
+    h3 {
+        font-size: 30px !important;
+    }
+
+    .spacetab .vc_column-inner {
+        padding: 0px 30px !important;
+    }
+
+    .dark-bg.vc_row {
+        margin: 0px 0px !important;
+        padding: 30px !important;
+    }
+
+    .blog-grid h3 {
+        font-size: 20px !important;
+    }
+}
+
+
+.fullimg figure,
+.fullimg figure .vc_single_image-wrapper,
+.fullimg figure .vc_single_image-wrapper img {
+    width: 100%;
+}
+
+.btn-huge,
+a.btn-huge {
+    font-size: 17px !important;
+}
+
+.bg95.vc_row {
+    background-size: 450px !important;
+    padding-right: 0px !important;
+}
+
+.icon-box-icon {
+    color: #ffff !important;
+    /* background-color: #17648a !important; */
+}
+
+@media screen and (min-width: 2000px) {
+
+    .mac-ani,
+    .mac-ani img {
+        width: 900px;
+    }
+}
+
+.vc_custom_1648028706788 {
+    padding-bottom: 150px !important;
+    background-position: 0 0 !important;
+    background-repeat: no-repeat !important;
+}
+
+.vc_custom_1650609577780 {
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+}
+
+.vc_custom_1646052636889 {
+    background-color: #f5f7f8 !important;
+}
+
+.vc_custom_1646052647618 {
+    background-color: #f5f7f8 !important;
+}
+
+.vc_custom_1646107477678 {
+    background-color: #f5f7f8 !important;
+}
+
+.vc_custom_1646052807844 {
+    padding-top: 40px !important;
+    background-color: #fafcfd !important;
+}
+
+.vc_custom_1645082715703 {
+    border-top-width: 0px !important;
+    border-top-color: #eaedf2 !important;
+    border-top-style: solid !important;
+}
+
+.vc_custom_1645157525178 {
+    background-image: url(../../asset-3/uploads/2021/11/pexels-sora-shimazaki-5673488.jpg) !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+}
+
+.vc_custom_1637242360836 {
+    background: #1c1f22 url(../../asset-3/uploads/2021/11/Mask-Group-15.png) !important;
+}
+
+.vc_custom_1649076575137 {
+    padding-top: 200px !important;
+}
+
+.vc_custom_1650254176380 {
+    margin-left: -150px !important;
+    text-align: right !important;
+}
+
+.vc_custom_1650609595045 {
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+}
+
+.vc_custom_1650350577226 {
+    background-color: #f7f7f7 !important;
+}
+
+.vc_custom_1650350543842 {
+    padding-right: 120px !important;
+    padding-left: 30px !important;
+    background-color: #f7f7f7 !important;
+}
+
+.vc_custom_1645694694506 {
+    padding-right: 30px !important;
+    padding-left: 30px !important;
+}
+
+.vc_custom_1646734444397 {
+    margin-left: 5px !important;
+}
+
+.vc_custom_1646209515483 {
+    padding: 0px !important;
+}
+
+.vc_custom_1646817224427 {
+    margin-top: 0px !important;
+    margin-right: 0px !important;
+    margin-bottom: 0px !important;
+    margin-left: 0px !important;
+    padding-top: 0px !important;
+    padding-right: 0px !important;
+    padding-bottom: 0px !important;
+    padding-left: 0px !important;
+}
+
+.vc_custom_1648181732924 {
+    margin-top: 0px !important;
+    margin-right: 0px !important;
+    margin-bottom: 0px !important;
+    margin-left: 0px !important;
+    padding-top: 0px !important;
+    padding-right: 0px !important;
+    padding-bottom: 0px !important;
+    padding-left: 0px !important;
+}
+
+.vc_custom_1645695216254 {
+    padding-right: 35% !important;
+}
+
+.vc_custom_1645695229946 {
+    padding-right: 35% !important;
+}
+
+.vc_custom_1645695253110 {
+    padding-right: 35% !important;
+}
+
+.vc_custom_1645695274827 {
+    padding-right: 35% !important;
+}
+
+.vc_custom_1645695285876 {
+    padding-right: 35% !important;
+}
+
+.vc_custom_1645695396401 {
+    padding-right: 35% !important;
+}
+
+.vc_custom_1645695573421 {
+    padding-right: 35% !important;
+}
+
+.vc_custom_1645695601406 {
+    padding-right: 35% !important;
+}
+
+.vc_custom_1645695463405 {
+    padding-right: 35% !important;
+}
+
+.vc_custom_1645695477872 {
+    padding-right: 35% !important;
+}
+
+.vc_custom_1650349791001 {
+    background-color: #acacac !important;
+}
+
+.vc_custom_1650350782682 {
+    background-color: #acacac !important;
+}
+
+.vc_custom_1650350793572 {
+    background-color: #acacac !important;
+}
+
+.vc_custom_1649652633449 {
+    margin-right: 0px !important;
+    margin-left: 0px !important;
+    padding-top: 50px !important;
+    padding-right: 50px !important;
+    padding-left: 50px !important;
+    background-color: #70b920 !important;
+    border-radius: 5px !important;
+}
+
+.vc_custom_1649654111835 {
+    margin-right: 0px !important;
+    margin-left: 0px !important;
+    padding-top: 50px !important;
+    padding-right: 50px !important;
+    padding-left: 50px !important;
+    background-color: #080b0c !important;
+    border-radius: 5px !important;
+}
+
+.vc_custom_1649652353242 {
+    margin-right: 0px !important;
+    margin-left: 0px !important;
+    padding-top: 50px !important;
+    padding-right: 50px !important;
+    padding-left: 50px !important;
+    background-color: #beab7e !important;
+    border-radius: 5px !important;
+}
+
+.vc_custom_1649653766254 {
+    margin-right: 0px !important;
+    margin-left: 0px !important;
+    padding-top: 50px !important;
+    padding-right: 50px !important;
+    padding-left: 50px !important;
+    background-color: #e7476e !important;
+    border-radius: 5px !important;
+}
+
+.vc_custom_1649654229477 {
+    margin-right: 0px !important;
+    margin-left: 0px !important;
+    padding-top: 50px !important;
+    padding-right: 50px !important;
+    padding-left: 50px !important;
+    background-color: #1a255f !important;
+    border-radius: 5px !important;
+}
+
+.vc_custom_1649652571349 {
+    margin-right: 0px !important;
+    margin-left: 0px !important;
+    padding-top: 50px !important;
+    padding-right: 50px !important;
+    padding-left: 50px !important;
+    background-color: #57a31b !important;
+    border-radius: 5px !important;
+}
+
+.vc_custom_1645606371508 {
+    padding-top: 39% !important;
+}
+
+.vc_custom_1645700750424 {
+    padding-top: 12.3% !important;
+    padding-right: 40px !important;
+    padding-bottom: 12.3% !important;
+    padding-left: 40px !important;
+    background-color: #ff0000 !important;
+}
+
+.vc_custom_1645700758849 {
+    padding-top: 12.3% !important;
+    padding-right: 40px !important;
+    padding-bottom: 12.3% !important;
+    padding-left: 40px !important;
+    background-color: #1a1c1f !important;
+}
+.color-dark-pink{
+    color: #ff5555;
+}

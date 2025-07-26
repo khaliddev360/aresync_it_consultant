@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35.097" height="35.097" viewBox="0 0 35.097 35.097">
+  <g id="vuesax_bold_colorfilter" data-name="vuesax/bold/colorfilter" transform="translate(-364 -380)">
+    <g id="colorfilter" transform="translate(364 380)">
+      <path id="Vector" d="M17.548,7.619a8.7,8.7,0,0,1-2.925,6.522,8.673,8.673,0,0,1-5.849,2.252A8.766,8.766,0,0,1,4.446,0a10.954,10.954,0,0,0,7.283,6.493,10.489,10.489,0,0,0,2.9.395,11.254,11.254,0,0,0,2.837-.366A6.8,6.8,0,0,1,17.548,7.619Z" transform="translate(2.925 15.779)" fill="#fff"/>
+      <path id="Vector-2" data-name="Vector" d="M17.548,8.774a8.767,8.767,0,0,1-6.464,8.467,8.846,8.846,0,0,1-4.621,0A8.775,8.775,0,1,1,17.548,8.774Z" transform="translate(8.774 2.925)" fill="#fff"/>
+      <path id="Vector-3" data-name="Vector" d="M12.8,7.619a8.781,8.781,0,0,1-8.774,8.774A8.649,8.649,0,0,1,0,15.413,10.812,10.812,0,0,0,3.29,7.619a9.55,9.55,0,0,0-.117-1.462L3.1,5.7A10.883,10.883,0,0,0,8.35,0,8.773,8.773,0,0,1,12.8,7.619Z" transform="translate(19.376 15.779)" fill="#fff"/>
+      <path id="Vector-4" data-name="Vector" d="M0,0H35.1V35.1H0Z" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

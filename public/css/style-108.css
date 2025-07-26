@@ -1,0 +1,27 @@
+   .overlay {
+        z-index: 999;
+        position: relative;
+    }
+
+    .img-right figure {
+        margin-right: -325px !important;
+    }
+
+    .icon-center .icon-box-icon {
+        width: 100%;
+    }
+
+    .ceo img {
+        position: absolute;
+        top: -185px !important;
+        left: 88% !important;
+    }
+
+    .z-index {
+        z-index: 999;
+    }
+
+    .icon_inline .wpb_wrapper .wpb_single_image img {
+        height: 40px !important;
+        width: auto;
+    }

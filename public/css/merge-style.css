@@ -1,0 +1,25 @@
+ h1 {
+     font-family: 'Nunito Sans' !important;
+ }
+
+ h2 {
+     font-family: 'Nunito' !important;
+     font-weight: bold;
+ }
+
+ #ohio-custom-62fcedbe69290 h2 {
+    font-family: 'Nunito Sans' !important;
+ }
+
+ h3, h4, h5, h6 {
+     font-family: 'Nunito' !important;
+    
+ }
+
+p{
+    font-family: 'Nunito' !important;
+    font-weight: lighter;
+}
+body{
+    font-family: 'Nunito' !important;
+}

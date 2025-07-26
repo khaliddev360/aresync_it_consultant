@@ -1,0 +1,48 @@
+	.ic-bx-cs .wpb_wrapper{
+        display: flex !important;
+    align-items: center !important;
+    width: 100% !important;
+}
+.ic-bx-cs .wpb_wrapper .wpb_single_image{
+    width: 27% !important;
+}
+.ic-bx-cs .wpb_wrapper .ohio-text-sc{
+        width: 73% !important;
+    padding-left: 20px !important;
+}
+.firstsec {
+    background: url(../colabrio.ams3.cdn.digitaloceanspaces.com/ohio/landing/assets/img/oh_bg-min.png) fixed ;
+}
+.icon_box_custom .icon-box.with-left-icon:not(.with-full-icon){
+    padding-left: 90px;
+}
+.tab.tabs-center .tabNav{
+        border-bottom: 1px solid #CBCDD1;
+}
+.icon_box_custom .icon-box-icon{
+    height: 83px;
+    width: 83px;
+    top: -15px !important;
+}
+.poster .slider-wrap .vc_row {
+    min-height: 651px;
+}
+.dark-scheme .blackbg.content_box .content_box_container {
+    background-color: #1a191d !important;
+}
+ .blackbg.content_box .content_box_container {
+    background-color: #fff !important;
+}
+.dblogo img{
+    height:70px !important; 
+    width:85% !important;
+}
+@media screen and (max-width: 768px){
+.spacer0 .icon-box {
+        padding-top: 15px !important;
+    padding-bottom: 15px !important;
+}
+}
+.firstsec{
+    background: fixed !important;
+}

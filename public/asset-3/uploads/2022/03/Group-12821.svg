@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="113" height="107" viewBox="0 0 113 107">
+  <defs>
+    <filter id="Rectangle_3820" x="0" y="0" width="113" height="107" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.027"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_12821" data-name="Group 12821" transform="translate(-281 -2575)">
+    <g transform="matrix(1, 0, 0, 1, 281, 2575)" filter="url(#Rectangle_3820)">
+      <g id="Rectangle_3820-2" data-name="Rectangle 3820" transform="translate(9 6)" fill="#fff" stroke="#eaedf2" stroke-width="1">
+        <rect width="95" height="89" rx="22" stroke="none"/>
+        <rect x="0.5" y="0.5" width="94" height="88" rx="21.5" fill="none"/>
+      </g>
+    </g>
+    <g id="diploma" transform="translate(312.969 2578)">
+      <path id="Path_41176" data-name="Path 41176" d="M151,345.667l2.933-1.467,2.933,1.467V331H151Z" transform="translate(-136.236 -270.667)" fill="#14bfa6"/>
+      <path id="Path_41177" data-name="Path 41177" d="M61,55.582,70.091,57.4h5.292l17.884-3.578v9.445H105.1V31H61ZM90.333,35.4h2.933v2.933H90.333ZM78.6,35.4h8.8v2.933H78.6Zm-5.867,0h2.933v2.933H72.733Zm-5.867,5.867H99.133V44.2H66.867Zm0,5.867H99.133v2.933H66.867Z" transform="translate(-55.036)" fill="#14bfa6"/>
+      <path id="Path_41178" data-name="Path 41178" d="M11.831,303.347,0,301v11.733l11.831-2.348Z" transform="translate(0 -243.6)" fill="#14bfa6"/>
+      <path id="Path_41179" data-name="Path 41179" d="M241,310.387l11.733,2.347V301L241,303.348Z" transform="translate(-217.436 -243.6)" fill="#14bfa6"/>
+    </g>
+  </g>
+</svg>

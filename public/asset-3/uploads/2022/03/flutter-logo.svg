@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="591.5" height="732.464" viewBox="0 0 591.5 732.464">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_41428" data-name="Path 41428" d="M598.93,339.265,401.763,536.5,598.93,733.739h-225.3L176.39,536.5,373.627,339.265ZM373.627,1.275,7.43,367.472,120.117,480.159,598.93,1.275h-225.3Z" transform="translate(-7.43 -1.275)"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.197" y1="1.193" x2="0.699" y2="0.448" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1a237e" stop-opacity="0.4"/>
+      <stop offset="1" stop-color="#1a237e" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient" cx="0.028" cy="0.068" r="1.223" gradientTransform="matrix(1.238, 0, 0, -1, -2.189, -5.539)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0.102"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <g id="flutterio-icon" transform="translate(-7.43 -1.275)">
+    <g id="Group_9419" data-name="Group 9419" transform="translate(7.43 1.275)" clip-path="url(#clip-path)">
+      <path id="Path_41427" data-name="Path 41427" d="M22.2,228.042,134.814,340.729,444.668,30.805h-225.3Z" transform="translate(146.832 307.185)" fill="#39cefd"/>
+    </g>
+    <g id="Group_9420" data-name="Group 9420" transform="translate(7.43 1.275)" clip-path="url(#clip-path)">
+      <path id="Path_41429" data-name="Path 41429" d="M373.627,1.275h225.3L120.117,480.159,7.43,367.472Z" transform="translate(-7.43 -1.275)" fill="#39cefd"/>
+    </g>
+    <g id="Group_9421" data-name="Group 9421" transform="translate(7.43 1.275)" clip-path="url(#clip-path)">
+      <path id="Path_41431" data-name="Path 41431" d="M32.037,160.724l84.55,84.48h225.3L144.724,48.037Z" transform="translate(249.609 487.189)" fill="#03569b"/>
+    </g>
+    <g id="Group_9422" data-name="Group 9422" transform="translate(7.43 1.275)" clip-path="url(#clip-path)">
+      <path id="Path_41433" data-name="Path 41433" d="M199.163,102.829,144.724,48.037,32.037,160.724Z" transform="translate(249.609 487.189)" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="Group_9423" data-name="Group 9423" transform="translate(7.43 1.275)" clip-path="url(#clip-path)">
+      <path id="Path_41435" data-name="Path 41435" d="M22.2,150.879l112.69-112.69,112.7,112.69-112.7,112.69Z" transform="translate(146.82 384.309)" fill="#16b9fd"/>
+    </g>
+    <path id="Path_41437" data-name="Path 41437" d="M598.93,339.265,401.763,536.5,598.93,733.739h-225.3L176.39,536.5,373.627,339.265ZM373.627,1.275,7.43,367.472,120.117,480.159,598.93,1.275h-225.3Z" transform="translate(0 0)" fill="url(#radial-gradient)"/>
+  </g>
+</svg>

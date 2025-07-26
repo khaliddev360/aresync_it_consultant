@@ -1,0 +1,26 @@
+  .vc_section.bg-xsc {
+        background-repeat: no-repeat !important;
+        background-position: right top !important;
+        background-size: 83vh !important;
+    }
+
+    .header ul li {
+        color: black;
+    }
+
+    .dark-scheme .hamburger {
+        color: black !important;
+    }
+
+    .dark-scheme .header .branding-title .light {
+        display: block !important;
+    }
+
+    .dark-scheme .header .branding-title .dark {
+        display: none !important;
+    }
+
+    .rain {
+        width: 33.33%;
+        float: left;
+    }
